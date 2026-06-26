@@ -4,11 +4,17 @@ title: "2026-06-27 — Il meccanismo applicativo dell'IVA"
 
 # 2026 06 27 - Il meccanismo applicativo dell'IVA
 
+[📄 Meccanismo IVA 2026.pptx](./2026-06-27/Meccanismo%20IVA%202026.pptx)
+
 [📄 Meccanismo IVA 2026 (intro modulo 2).pptx](./2026-06-27/Meccanismo%20IVA%202026%20%28intro%20modulo%202%29.pptx)
 
 [📄 Meccanismo IVA 2026 (materiali e moduli).pptx](./2026-06-27/Meccanismo%20IVA%202026%20%28materiali%20e%20moduli%29.pptx)
 
-[📄 Meccanismo IVA 2026.pptx](./2026-06-27/Meccanismo%20IVA%202026.pptx)
+
+
+:arrow_forward: :dart: [Scelta sentenze IVA - 27 06 2026 – Compila modulo](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=dH1Puf-BqUS1iGaCrMhXeQN0cakoxfZAjVobKdfmhCRUQ0pXTEZDVVJFRFlUSllaME84UVJMSkhSQS4u) :dart: :arrow_backward:
+
+
 
 [📄 Indice moduli](./2026-06-27/indice-moduli.html)
 
