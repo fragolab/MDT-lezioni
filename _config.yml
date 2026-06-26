@@ -1,8 +1,8 @@
 # Togli il cancelletto (#) SOLO alla riga del tema che vuoi attivare.
 # Mettilo davanti a tutti gli altri.
 
-# theme: jekyll-theme-cayman
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+# theme: jekyll-theme-minimal
 # theme: jekyll-theme-tactile
 # theme: jekyll-theme-architect
 # theme: jekyll-theme-hacker
