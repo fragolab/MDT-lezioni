@@ -1,3 +1,7 @@
+---
+title: "Indice moduli — Lezione 27 giugno 2026"
+---
+
 # Indice moduli — Lezione 27 giugno 2026
 
 Sentenze citate nella *Rassegna critica giurisprudenziale* (apparato CGUE / Tribunale UE).

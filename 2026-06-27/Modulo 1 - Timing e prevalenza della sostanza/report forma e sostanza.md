@@ -1,3 +1,7 @@
+---
+title: "Forma e sostanza nel diritto a detrazione IVA"
+---
+
 # Forma e sostanza nel diritto a detrazione IVA
 ### Schema ragionato della giurisprudenza CGUE / Tribunale UE (Modulo 1)
 

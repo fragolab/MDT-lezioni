@@ -1,3 +1,7 @@
+---
+title: "Operazioni inesistenti e art. 203 della direttiva IVA"
+---
+
 # Operazioni inesistenti e art. 203 della direttiva IVA
 ### Schema ragionato della giurisprudenza CGUE (Modulo 2)
 

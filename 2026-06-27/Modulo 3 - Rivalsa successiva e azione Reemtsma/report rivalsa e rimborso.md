@@ -1,3 +1,7 @@
+---
+title: "Rivalsa successiva e azione di rimborso presso l'Erario"
+---
+
 # Rivalsa successiva e azione di rimborso presso l'Erario
 ### Schema ragionato della giurisprudenza CGUE — il filone *Reemtsma* (Modulo 3)
 

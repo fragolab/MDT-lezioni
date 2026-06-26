@@ -1,3 +1,7 @@
+---
+title: "2026-06-27 — Il meccanismo applicativo dell'IVA"
+---
+
 # 2026 06 27 - Il meccanismo applicativo dell'IVA
 
 [📄 Meccanismo IVA 2026 (intro modulo 2).pptx](./2026-06-27/Meccanismo%20IVA%202026%20%28intro%20modulo%202%29.pptx)
@@ -6,14 +10,14 @@
 
 [📄 Meccanismo IVA 2026.pptx](./2026-06-27/Meccanismo%20IVA%202026.pptx)
 
-[📄 _indice moduli.md](./2026-06-27/_indice%20moduli.md)
+[📄 Indice moduli](./2026-06-27/indice-moduli.html)
 
 ## Modulo 1 - Timing e prevalenza della sostanza
 
 **📂 Modulo 1 - Timing e prevalenza della sostanza/**
 
 - [📄 mm forma e sostanza.html](./2026-06-27/Modulo%201%20-%20Timing%20e%20prevalenza%20della%20sostanza/mm%20forma%20e%20sostanza.html)
-- [📄 report forma e sostanza.md](./2026-06-27/Modulo%201%20-%20Timing%20e%20prevalenza%20della%20sostanza/report%20forma%20e%20sostanza.md)
+- [📄 report forma e sostanza](./2026-06-27/Modulo%201%20-%20Timing%20e%20prevalenza%20della%20sostanza/report%20forma%20e%20sostanza.html)
 
 | #    | Causa                         | Numero   | ECLI                                                         | Documento                                                    | CURIA                                                        |
 | ---- | ----------------------------- | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -35,7 +39,7 @@
 **📂 Modulo 2 - Operazioni inesistenti e art. 203/**
 
 - [📄 mm operazioni inesistenti.html](./2026-06-27/Modulo%202%20-%20Operazioni%20inesistenti%20e%20art.%20203/mm%20operazioni%20inesistenti.html)
-- [📄 report operazioni inesistenti.md](./2026-06-27/Modulo%202%20-%20Operazioni%20inesistenti%20e%20art.%20203/report%20operazioni%20inesistenti.md)
+- [📄 report operazioni inesistenti](./2026-06-27/Modulo%202%20-%20Operazioni%20inesistenti%20e%20art.%20203/report%20operazioni%20inesistenti.html)
 
 | #    | Causa                             | Numero             | ECLI          | Documento                                                    | CURIA                                                        |
 | ---- | --------------------------------- | ------------------ | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -58,7 +62,7 @@
 **📂 Modulo 3 - Rivalsa successiva e azione Reemtsma/**
 
 - [📄 mm rivalsa e rimborso.html](./2026-06-27/Modulo%203%20-%20Rivalsa%20successiva%20e%20azione%20Reemtsma/mm%20rivalsa%20e%20rimborso.html)
-- [📄 report rivalsa e rimborso.md](./2026-06-27/Modulo%203%20-%20Rivalsa%20successiva%20e%20azione%20Reemtsma/report%20rivalsa%20e%20rimborso.md)
+- [📄 report rivalsa e rimborso](./2026-06-27/Modulo%203%20-%20Rivalsa%20successiva%20e%20azione%20Reemtsma/report%20rivalsa%20e%20rimborso.html)
 
 | #    | Causa                            | Numero   | ECLI          | Documento                                                    | CURIA                                                        |
 | ---- | -------------------------------- | -------- | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
